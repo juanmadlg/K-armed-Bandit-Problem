@@ -7,3 +7,4 @@ Different implementations of the K-Armed Bandit Problem in Google Collab Noteboo
 * K-Armed Testbed (also in [GIST](https://gist.github.com/juanmadlg/bc25bc44af651d2dde48b708c2af87d9))
 * K-Armed Testbed with Optimistic Initial Values (also in [GIST](https://gist.github.com/juanmadlg/1aedc22ca5fead9deae902509fe417bd))
 * K-Armed Testbed with Upper-Confidence Bound (UCB) Action Selection (also in [GIST](https://gist.github.com/juanmadlg/3b038787de96454b175f25087292a0da))
+* K-Armed Testbed and the Step Size effect (also in [GIST](https://gist.github.com/juanmadlg/e2759e868565a255e40f2577cf1ca349))
